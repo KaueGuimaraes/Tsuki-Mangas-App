@@ -64,7 +64,7 @@ Versão mais recente: [Tsuki Mangás BETA](https://www.mediafire.com/file/bajc3f
    ![05](https://user-images.githubusercontent.com/76141331/148701934-dfa87d95-101d-4c49-9353-4ebcbaaeb2dc.png)
    ![06](https://user-images.githubusercontent.com/76141331/148701936-d4585304-cd3b-4bf6-9655-fe2d4c8807ee.png)
 
-- Agora é só clical em **JOGAR** e se divertir!
+- Agora é só clicar em **JOGAR** e se divertir!
 
    ![tips](https://user-images.githubusercontent.com/76141331/148701982-ebc98112-181c-4349-baaf-57963c67b0c0.png)
    
